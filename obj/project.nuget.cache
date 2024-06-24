@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "StVMwJyHMg4aRY70cy3IpMS1wXQJiKI5yViVP6j2R4+wPhjAJ49eZNnyCKoF/KDtj8Vqr+kZe74UhIxV0oIFlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\clean-architecture-using-mediatR\\clean-architecture-using-mediatR\\clean-architecture-using-mediatR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
